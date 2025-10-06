@@ -20,5 +20,3 @@ A simple *digital clock* made using *HTML, CSS, and JavaScript*.
 [👉 Click to View](https://xyzvikram.github.io/digital-clock/)
 
 ---
-
-## 📂 Files
