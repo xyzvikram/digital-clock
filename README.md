@@ -16,7 +16,7 @@ A simple *digital clock* made using *HTML, CSS, and JavaScript*.
 
 ---
 
-## 🌐 Live Demo Digital Clock
+## 🌐 Live Demo
 [👉 Click to View](https://xyzvikram.github.io/digital-clock/)
 
 ---
